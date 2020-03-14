@@ -1,2 +1,2 @@
-#! /bin/bash
-tvservice -o
+fbset -accel false
+tvservice -0
