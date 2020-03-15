@@ -1,2 +1,2 @@
 fbset -accel false
-tvservice -0
+tvservice -o
